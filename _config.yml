@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: space of young
+title: Space of young
 
 # Your name to show in the footer
 author: Zhaoyang Mu
@@ -16,8 +16,8 @@ author: Zhaoyang Mu
 navbar-links:
   关于我: "aboutme"
   我的母校:
-    - Dalian Maritime University: "https://www.dlmu.edu.cn/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - 大连海事大学: "https://www.dlmu.edu.cn/"
+    - 大连长兴岛高级中学: "https://baike.baidu.com/item/%E5%A4%A7%E8%BF%9E%E9%95%BF%E5%85%B4%E5%B2%9B%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6/24211078"
   Author's home: "https://https://github.com/Pitohuie/muzy.github.io"
 
 # --- Logo --- #
@@ -40,12 +40,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mzy20001030@dlmu.edu.cn"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
+  github: Pitohuie
   twitter: daattali
   patreon: DeanAttali
-  youtube: c/daattali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
