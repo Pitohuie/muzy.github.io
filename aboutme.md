@@ -4,7 +4,7 @@ title: 牟昭阳
 subtitle: 个人简介
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我是牟昭阳， 以下是我的个人简述:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
