@@ -4,9 +4,9 @@ title: 牟昭阳
 subtitle: 个人简介
 ---
 
-我是牟昭阳， 以下是我的个人简述:
+ <font face="黑体" color=White>我是牟昭阳， 以下是我的个人简述:</font>
 
-- <font color=White>我是一名来自大连海事大学19级的学生，就读于交通运输工程专业</font>
+- <font face="黑体" color=White>我是一名来自大连海事大学19级的学生，就读于交通运输工程专业</font>
 - I'm extremely loyal to my family
 
 What else do you need?
