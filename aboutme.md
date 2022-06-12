@@ -1,10 +1,10 @@
 ---
 layout: page
-title: *牟昭阳*
+title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-我是牟昭阳:
+My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
