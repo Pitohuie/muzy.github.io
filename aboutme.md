@@ -7,7 +7,9 @@ subtitle: 个人简介
  <font face="黑体" color=White>我是牟昭阳， 以下是我的个人简述:</font>
 
 - <font face="黑体" color=White>我是一名来自大连海事大学19级的学生，就读于交通运输工程专业</font>
-- I'm extremely loyal to my family
+- <font face="黑体" color=White>我平时喜欢各种运动，篮球、飞盘、羽毛球</font>
+- <font face="黑体" color=White>我的爱好与特长是音乐制作，我在大学无意间对音乐制作着迷，自学了FL Studio进行了简单的学习，目前还没有作品集但是不久的将来会有的</font>
+- <font face="黑体" color=White>我把朋友视为家人，我喜欢和我的家人在一起</font>
 
 What else do you need?
 
