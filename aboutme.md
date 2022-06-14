@@ -15,6 +15,8 @@ subtitle: 个人简介
  <font face="黑体" color=White>你还需要什么？奥，对了我的挚友郑嘉熙的网站，不是吗？</font>
  
  [这是他的网站](https://jiaxizheng.com) <font face="黑体" color=White>你肯定想去看看👍</font>
+ ![me and jiaxi - 副本](https://user-images.githubusercontent.com/105697385/173613760-d751b814-a326-493e-ab69-fc4914f874bb.jpg)
+
 
 ### My story
 
