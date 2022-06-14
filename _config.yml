@@ -70,7 +70,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: jiaxizheng.com
 
 # --- General options --- #
 
@@ -98,7 +98,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "关于我,list,of,keywords"
+keywords: "关于我,简历，学校,郑嘉熙,"
 
 # --- Colours / background image --- #
 
@@ -108,13 +108,13 @@ navbar-col: "#87CEEB"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFAF0"
-text-col: "#404040"
-link-col: "#6495ED"
-hover-col: "#0085A1"
+text-col: "#F0FFFF"
+link-col: "#FFA500"
+hover-col: "#708090"
 footer-col: "#87CEEB"
-footer-text-col: "#777777"
-footer-link-col: "#6495ED"
-footer-hover-col: "#0085A1"
+footer-text-col: "#F0FFFF"
+footer-link-col: "#FFA500"
+footer-hover-col: "#708090"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -218,7 +218,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
