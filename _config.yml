@@ -42,10 +42,10 @@ round-avatar: true
 social-network-links:
   email: "mzy20001030@dlmu.edu.cn"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+ # facebook: deanattali
   github: Pitohuie
-  twitter: daattali
-  patreon: DeanAttali
+  twitter: pitohuie
+ # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
