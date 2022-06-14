@@ -1,34 +1,27 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: 水下机器人
+subtitle: 我的水下机器人工作
+gh-repo: Pitohuie/muzy.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [水下机器人]
+comments: true![Ray1](https://user-images.githubusercontent.com/105697385/173609268-e65d9168-5c21-458a-b039-cb277abc9f96.jpg)
+
 ---
+这是我的水下工作的开端
+**大二的夏天**
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+## 我的挚友引导我接触了水下机器人
 
-**Here is some bold text**
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](![pitohuie](https://user-images.githubusercontent.com/105697385/173609344-e848857f-ecd4-403c-a462-d9314fc819cd.png)
 
-It can also be centered!
+It can also be centered![CVofmzy.pdf](https://github.com/Pitohuie/muzy.github.io/files/8900945/CVofmzy.pdf)
+
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
