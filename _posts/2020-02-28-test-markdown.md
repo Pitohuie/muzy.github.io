@@ -159,17 +159,17 @@ yolo_detect(pathIn,pathOut
 ### Notification
 
 {: .box-note}
-**Note:** <font color=black>This is a notification box.</font>
+**<font color=black>Note:</font>** <font color=black>This is a notification box.</font>
 
 ### Warning
 
 {: .box-warning}
-**Warning:**  <font color=black>This is a warning box.</font>
+**<font color=black>Warning:</font>**  <font color=black>This is a warning box.</font>
 
 ### Error
 
 {: .box-error}
-**Error:** <font color=black>This is an error box.</font>
+**<font color=black>Error:</font>** <font color=black>This is an error box.</font>
 
 ### 最后就是我的工作照了
 
