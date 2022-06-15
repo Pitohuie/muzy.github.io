@@ -19,40 +19,23 @@ comments: true![Ray1](https://user-images.githubusercontent.com/105697385/173609
 这是被更新后的第一代机器人
 
 
-![first rob](https://user-images.githubusercontent.com/105697385/173712687-35cf93ab-7f58-48ee-926f-4ff20c9a223c.jpg){: .mx-auto.d-block :}
+![first rob](https://user-images.githubusercontent.com/105697385/173712687-35cf93ab-7f58-48ee-926f-4ff20c9a223c.jpg)
 
 这台水下机器人是由[郑嘉熙](https:https://jiaxizheng.com/)独立设计预组装，也是我第一次接触水下机器人的时候
 
 这是最新一代由我组装的！
 
 
-![frame](https://user-images.githubusercontent.com/105697385/173713146-d7747094-9856-4be3-9204-1fa663c490c8.jpg){: .mx-auto.d-block :}
+![frame](https://user-images.githubusercontent.com/105697385/173713146-d7747094-9856-4be3-9204-1fa663c490c8.jpg)
 
 
 下面是机器人简要的图像处理代码：
 
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
-# -*- coding: utf-8 -*-
-# 载入所需库
+   #-*- coding: utf-8 -*-
+   #载入所需库
 import cv2
 import numpy as np
 import os
@@ -191,5 +174,14 @@ yolo_detect(pathIn,pathOut
 ### 最后就是我的工作照了
 
 ![pull](https://user-images.githubusercontent.com/105697385/173714435-69bd34da-9b39-4883-bbad-22df6e6421cf.jpg)
+
+![throw](https://user-images.githubusercontent.com/105697385/173714878-c7a6a669-9458-472c-8d25-1de2dc263da6.jpg)
+
+![nice](https://user-images.githubusercontent.com/105697385/173714917-d10cf2f2-f96f-4bb1-a3fd-7d62f1ce3aaf.jpg)
+
+![answer](https://user-images.githubusercontent.com/105697385/173715030-862bf0fa-b8f5-43fd-a0b7-c2a3c835e593.jpg)
+制作张拉结构
+![tensegrity](https://user-images.githubusercontent.com/105697385/173715064-f382e79c-faf4-4181-a73f-981eba620c9f.jpg)
+
 
 
