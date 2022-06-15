@@ -20,6 +20,6 @@ subtitle: 个人简介
 
 ### 中国机器人大赛水下机器人（RoboCup China Open）
 
-也正是因为我们的合作，在机器人大赛水下机器人组取得了佳绩，这也是我破格保研的比赛，如果你也想了解更多请点击[这里]（http://crc.drct-caa.org.cn/index.php/race?catid=3)了解更多
+也正是因为我们的合作，在机器人大赛水下机器人组取得了佳绩，这也是我破格保研的比赛，如果你也想了解更多请点击[这里](http://crc.drct-caa.org.cn/index.php/race?catid=3)了解更多
 ![AUV rob](https://user-images.githubusercontent.com/105697385/173711212-db5552e3-7b6b-4cbb-9079-754a46681046.png)
 ### NOW GO！
