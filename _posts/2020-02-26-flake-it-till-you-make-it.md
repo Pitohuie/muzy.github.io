@@ -6,7 +6,7 @@ cover-img: /assets/img/kitty/微信图片_2022061509251912.jpg
 thumbnail-img: /assets/img/kitty/微信图片_202206150925198.jpg
 
 share-img: /assets/img/kitty/微信图片_2022061509251915.jpg
-tags: [life, cat，kitty]
+tags: [life, cat, kitty]
 ---
 
 # 介绍一下我的两位“朋友”小菊和猫哥
