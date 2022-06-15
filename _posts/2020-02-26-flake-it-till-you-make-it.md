@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: Life kitty and cat
+subtitle: Xiao ju and Cat bro
+cover-img: ![微信图片_2022061509251912](https://user-images.githubusercontent.com/105697385/173716919-6d08dc7c-0a09-49d8-942e-b66b7e19350a.jpg)
+thumbnail-img: ![微信图片_202206150925198](https://user-images.githubusercontent.com/105697385/173716717-0c8bea57-7a61-4ea2-a808-c9732dd03b2c.jpg)
+
+share-img: ![微信图片_2022061509251915](https://user-images.githubusercontent.com/105697385/173716961-d24e633b-38d9-486d-92f5-c707f7b8e015.jpg)
+tags: [life, cat，kitty]
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
