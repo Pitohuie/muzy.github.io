@@ -27,7 +27,7 @@ tags: [life, cat，kitty]
 
 ![微信图片_202206150942325](https://user-images.githubusercontent.com/105697385/173727235-b3567929-54a4-4def-8381-50f3e0c9403d.jpg)
 
-还有我与[大连海事大学](https://www.dlmu.edu.cn/）学校的猫🐱的合影
+还有我与[连海事大学](ttps://www.dlmu.edu.cn/)校的猫🐱的合影
 
 ![微信图片_2022061509251916](https://user-images.githubusercontent.com/105697385/173728561-87504ede-60b4-4cd8-9852-3dbe0baf396e.jpg)
 ![微信图片_2022061509251917](https://user-images.githubusercontent.com/105697385/173728590-b2e38e8c-de05-4f22-9eb7-ea5cdbdda1ad.jpg)
