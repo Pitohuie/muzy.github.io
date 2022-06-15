@@ -34,23 +34,23 @@ comments: true![Ray1](https://user-images.githubusercontent.com/105697385/173609
 
 
 {% highlight javascript linenos %}
-   #-*- coding: utf-8 -*-
-   #载入所需库
-import cv2
-import numpy as np
-import os
-import time
+    # -*- coding: utf-8 -*-
+    # 载入所需库
+    import cv2
+    import numpy as np
+    import os
+    import time
  
  
-def yolo_detect(pathIn='',
-                pathOut=None,
-                label_path='./cfg/coco.names',
-                config_path='./cfg/yolov3.cfg',
-                weights_path='./cfg/yolov3.weights',
-                confidence_thre=0.5,
-                nms_thre=0.3,
-                jpg_quality=80):
-    '''
+    def yolo_detect(pathIn='',
+                    pathOut=None,
+                    label_path='./cfg/coco.names',
+                    config_path='./cfg/yolov3.cfg',
+                    weights_path='./cfg/yolov3.weights',
+                    confidence_thre=0.5,
+                    nms_thre=0.3,
+                    jpg_quality=80):
+        '''
     pathIn：原始图片的路径
     pathOut：结果图片的路径
     label_path：类别标签文件的路径
