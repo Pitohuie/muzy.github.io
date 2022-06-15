@@ -21,7 +21,7 @@ comments: true![Ray1](https://user-images.githubusercontent.com/105697385/173609
 
 ![first rob](https://user-images.githubusercontent.com/105697385/173712687-35cf93ab-7f58-48ee-926f-4ff20c9a223c.jpg)
 
-这台水下机器人是由[郑嘉熙](https:https://jiaxizheng.com/)独立设计预组装，也是我第一次接触水下机器人的时候
+这台水下机器人是由[郑嘉熙](https://jiaxizheng.com/)独立设计预组装，也是我第一次接触水下机器人的时候
 
 这是最新一代由我组装的！
 
