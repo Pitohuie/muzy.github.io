@@ -1,18 +1,44 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: Life kitty and cat
+subtitle: Xiao ju and Cat bro
+cover-img: /assets/img/kitty/微信图片_2022061509251912.jpg
+thumbnail-img: /assets/img/kitty/微信图片_202206150925198.jpg
+
+share-img: /assets/img/kitty/微信图片_2022061509251915.jpg
+tags: [life, cat, kitty]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+# 介绍一下我的两位“朋友”小菊和猫哥
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+![微信图片_202206150925199](https://user-images.githubusercontent.com/105697385/173725595-a77f995e-3459-439a-af7f-b6184c5c9cea.jpg)
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+他俩都是我从流浪猫救助站收养的，他们都很乖很懂事，其实猫咪也是需要安全感和信任感的
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+![微信图片_20220615092519](https://user-images.githubusercontent.com/105697385/173727169-981c4ec1-b0cc-4813-ac08-aac0863e59c9.jpg)
+
+![微信图片_202206150925192](https://user-images.githubusercontent.com/105697385/173727168-727f9d53-b63c-4b4f-a2cc-64fb991d73a9.jpg)
+
+![微信图片_202206150942322](https://user-images.githubusercontent.com/105697385/173727186-fde333b3-87ea-4b6c-a718-41d10f39714a.jpg)
+
+![微信图片_202206150942326](https://user-images.githubusercontent.com/105697385/173727203-e1997450-c59e-42a2-9552-c2163bb977d0.jpg)
+
+![微信图片_202206150942323](https://user-images.githubusercontent.com/105697385/173727228-80392378-c7fd-45b5-9aa5-a27eb730cd9c.jpg)
+
+![微信图片_202206150942325](https://user-images.githubusercontent.com/105697385/173727235-b3567929-54a4-4def-8381-50f3e0c9403d.jpg)
+
+# 我与[大连海事大学](ttps://www.dlmu.edu.cn/)学校里的猫🐱的合影
+
+![微信图片_2022061509251916](https://user-images.githubusercontent.com/105697385/173728561-87504ede-60b4-4cd8-9852-3dbe0baf396e.jpg)
+
+![微信图片_2022061509251917](https://user-images.githubusercontent.com/105697385/173728590-b2e38e8c-de05-4f22-9eb7-ea5cdbdda1ad.jpg)
+
+
+# 奥，对了顺便给你看一下[郑嘉熙](https://jiaxizheng.com/)的猫咪，很漂亮
+
+![微信图片_2022061509251913](https://user-images.githubusercontent.com/105697385/173728109-98972b1f-ed55-4747-8bfc-860fd87262cb.jpg)
+
+
+可以说我们都是爱猫人士了~
+
+
